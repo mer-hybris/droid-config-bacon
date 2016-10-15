@@ -5,7 +5,7 @@ Description: Pattern with packages for bacon HW Adaptation
 Name: jolla-hw-adaptation-bacon
 Requires:
 - pattern:jolla-hw-adaptation-hybris
-- pattern:jolla-hw-adaptation-hybris-droid-vibrator
+#- pattern:jolla-hw-adaptation-hybris-droid-vibrator
 - pattern:jolla-ui-configuration-bacon
 
 - droid-hal-bacon
@@ -83,5 +83,8 @@ Requires:
 
 # Camera
 - camera-settings-plugin
+
+# ffmemless vibrator
+- qt5-feedback-haptics-ffmemless
 
 Summary: Jolla HW Adaptation bacon
