@@ -4,11 +4,7 @@
 Description: Pattern with packages for bacon configurations
 Name: jolla-configuration-bacon
 Requires:
-- pattern:jolla-hw-adaptation-bacon
-- pattern:jolla-sailfish-applications
-- pattern:jolla-ui-wayland
-# Early stages of porting benefit from these:
-- pattern:sailfish-porter-tools
+- patterns-sailfish-device-configuration-bacon
 
 Summary: Jolla Configuration bacon
 

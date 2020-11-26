@@ -1,1 +1,1 @@
-CONFIG="-n --file=/etc/pulse/arm_msm8974_oneplus-bacon.pa"
+CONFIG="-n --file=/etc/pulse/arm_droid_default.pa"
